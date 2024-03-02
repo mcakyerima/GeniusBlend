@@ -1,8 +1,8 @@
-import { Button } from '@/components/ui/button'
-
 const DashboardPage = () => {
   return (
-    <h2>This is the Dashboard</h2>
+    <div>
+        <h2>This is the Dashboard (protected)</h2>
+    </div>
   )
 }
 
